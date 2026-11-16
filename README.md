@@ -42,8 +42,8 @@ I help UMKM, students, and startups turn ideas into web, mobile, and AI applicat
 
 ## GitHub Stats
 
-![Dayyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdayy&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdayy&layout=compact&theme=default&hide_border=true)
+![Dayyan's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamdayy&theme=github_dark)
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamdayy&theme=github_dark)
 
 ## Connect With Me
 
